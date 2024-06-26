@@ -1,0 +1,16 @@
+Criar API RestFull para controle de 
+
+Modelo:
+    Produto: id, nome, quantidade, valor, observacao, obter
+
+Controller:
+     obterTodos, obterPorId, adicionarProduto, atualizarProduto, deletarProdutos
+
+Serviço de produto:
+    obterTodos, obterPorId, adicionarProduto, atualizarProduto, deletarProdutos
+
+Repositorio de produto:
+    obterTodos, obterPorId, adicionarProduto, atualizarProduto, deletarProdutos
+
+Itegração com banco de dados (postgres):
+
